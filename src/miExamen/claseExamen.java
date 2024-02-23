@@ -4,17 +4,13 @@
  */
 package miExamen;
 
-/**
- *
- * @author alu06v
- */
 public class claseExamen {
-
-    /**
-     * @param args the command line arguments
-     */
+    /*Entornos de Desarrollo UT3 */
+    /*Esta clase sirve para realizar el examen de la UT3 del módulo Entornos de Desarrollo */
+    /* Curso de Git y github de píldoras informáticas */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Estoy haciendo el exámen de la UT3");
+        
     }
     
 }
